@@ -2,9 +2,10 @@
     
 <div id="header" align="center">
 
-
-<H1> Majed Alrawashdeh </pH1>
-<H2>Student | Programmer | Tech enthusiast </H2>
+<header>
+    <H1> Majed Alrawashdeh </H1>
+    <p>Student | Programmer | Tech enthusiast </p>
+</header>
 
 </div>
 
@@ -16,7 +17,7 @@
 
 <H1>About me:</H1>
 
-Hello! I'm Majed Alrawashdeh, my Github user is: @MBY04.
+Hello! I am Majed Alrawashdeh, my Github user is: @MBY04.
 
 👀 About me: I am a Computer Science student from the University of South Wales, aspiring to excel in my field. I have had a passion for computers and technology related things ever since I was a kid.  
 
@@ -34,12 +35,10 @@ Hello! I'm Majed Alrawashdeh, my Github user is: @MBY04.
 </div>
 
 <div id="Programming">
-<h1>Programming languages:</h1>
- <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="c++" alt="c++" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
- 
-
+    <h1>Programming languages:</h1>
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="c++" alt="c++" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
