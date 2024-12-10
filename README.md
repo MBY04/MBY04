@@ -1,3 +1,16 @@
+
+<div id="header" align="center">
+
+
+<H1> Hello! I am Majed. </H1>
+<p>BSc Computer science</p>
+
+</div>
+
+<div id="body" align="left">
+
+<H1>About me:</H1>
+
 Hello! I'm Majed Alrawashdeh, my Github user is: @MBY04.
 
 About me: Computer Science student from University of South Wales, aspiring to excel in my field.
@@ -5,7 +18,6 @@ About me: Computer Science student from University of South Wales, aspiring to e
 Skills: Proficiency in C++, Python, and HTML&CSS.
 
 Hobbies: Football, swimming, and learning.
-<!---
-MBY04/MBY04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+</div>
+
