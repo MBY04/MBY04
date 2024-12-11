@@ -25,7 +25,7 @@ Hello! I am Majed Alrawashdeh, my Github user is: @MBY04.
 
 <p>💞️ Skillset: I have proficiency with C++, Python, HTML&CSS, and basic SQL. I have created various small projects using C++ and Python languages, which have allowed me to develop my skills and expand my knowledge.</p>
 
-<p>🌱 Hobbies: In my spare time I enjoy talking with friends and hanging out.</p>
+<p>🌱 Hobbies: I enjoy many hobbies such as swimming, walking, traveling, and programming. I also like exploring and learning new hobbies that I find interesting such as playing chess, reading, and music.</p>
 
 <p>📫 Contact me: 30116859@students.southwales.ac.uk</p>
 
