@@ -1,1 +1,22 @@
 
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: url('https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
+}
+
+.header {
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+
