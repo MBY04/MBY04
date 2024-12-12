@@ -13,7 +13,12 @@ body {
   margin: 20px;
 }
 
-.body {
-  color: white;
-
-}
+#Programming {
+      border: 2px solid #333; /* Creates a border around the entire container */
+      padding: 20px; /* Adds internal spacing */
+      background-color: #f9f9f9; /* Light background for contrast */
+      border-radius: 8px; /* Optional: rounded corners */
+      max-width: 400px; /* Optional: limits the width of the box */
+      margin: 20px auto; /* Centers the box horizontally */
+      text-align: center; /* Centers the content */
+    }
