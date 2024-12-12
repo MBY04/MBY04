@@ -15,7 +15,7 @@
 
 <div id="body" align="left">
 
-<H1>About me:</H1>
+<H1 align="middle">About me:</H1>
 
 Hello! I am Majed Alrawashdeh, my Github user is: @MBY04.
 
