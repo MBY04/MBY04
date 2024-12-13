@@ -34,6 +34,9 @@ body {
       margin: 20px 0;
     }
 
+a{
+  color: purple;
+}
 
 .box {
   background-color: white;
