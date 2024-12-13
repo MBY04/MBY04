@@ -50,3 +50,33 @@ a{
   color: #333;
 
 }
+
+#Programming {
+    text-align: center;
+}
+
+.image-container {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+.image-container img {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s;
+}
+
+.image-container:hover img {
+    transform: scale(1.1);
+}
+
+.image-container p {
+    font-size: 12px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.image-container:hover p {
+    opacity: 1;
+}
