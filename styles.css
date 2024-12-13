@@ -51,10 +51,10 @@ a{
 
 }
 
-.c++Image {
+.cppImage {
     transition: transform 0.3s ease;
 }
 
-.c++Image:hover {
+.cppImage:hover {
     transform: scale(1.2);
 }
