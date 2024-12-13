@@ -50,3 +50,11 @@ a{
   color: #333;
 
 }
+
+.c++Image {
+    transition: transform 0.3s ease;
+}
+
+.c++Image:hover {
+    transform: scale(1.2);
+}
