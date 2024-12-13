@@ -58,3 +58,27 @@ a{
 .cppImage:hover {
     transform: scale(1.2);
 }
+
+.PythonImage {
+    transition: transform 0.3s ease;
+}
+
+.PythonImage:hover {
+    transform: scale(1.2);
+}
+
+.HTMLImage {
+    transition: transform 0.3s ease;
+}
+
+.HTMLImage:hover {
+    transform: scale(1.2);
+}
+
+.SQLImage {
+    transition: transform 0.3s ease;
+}
+
+.SQLImage:hover {
+    transform: scale(1.2);
+}
