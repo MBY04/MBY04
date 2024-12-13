@@ -35,6 +35,14 @@ body {
       margin: 20px 0;
     }
 
+#Programming{
+  text-align: center;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    gap: 20px; 
+}
+
 a{
   color: purple;
 }
